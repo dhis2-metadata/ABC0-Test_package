@@ -2025,11 +2025,11 @@
     "package": {
         "DHIS2Build": "2adf10b",
         "DHIS2Version": "2.36.4",
-        "code": "MLAGDQ",
+        "code": "ABC0DQ",
         "description": "",
         "lastUpdated": "20211214T074245",
         "locale": "en",
-        "name": "MLAGDQH_1.2.1_DHIS2.36",
+        "name": "ABC0DQH_1.2.1_DHIS2.36",
         "type": "DSH",
         "version": "1.2.1"
     },
